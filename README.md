@@ -35,7 +35,7 @@ These data, together, give us a good overview of the goodness of this model
 
 ---
 
-NB: see the .ipynb file for full report with some explanations
+NB: see the .ipynb file for full report with some explanations and .pdf file for a simple presentation of the work
 
 Work done by:
 * Christian Stingone (https://github.com/ChriStingo)
