@@ -33,6 +33,8 @@ These data, together, give us a good overview of the goodness of this model
 
 **Applications**: in any medical area where you want to prevent an heart disease/attack
 
+**Dataset**: https://www.kaggle.com/fedesoriano/heart-failure-prediction
+
 ---
 
 NB: see the .ipynb file for full report with some explanations and .pdf file for a simple presentation of the work
